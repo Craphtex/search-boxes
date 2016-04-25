@@ -9,6 +9,6 @@ Package.describe({
 Package.onUse(function(api) {
   api.versionsFrom('1.3.2.4');
   api.use('ecmascript');
-  api.use('space:template-controller');
+  api.use('space:template-controller@0.2.1');
   api.mainModule('search-boxes.js');
 });

@@ -10,6 +10,6 @@ Package.onUse(function(api) {
   api.versionsFrom('1.3.2');
   api.use('ecmascript');
   api.use('space:template-controller@0.2.1');
-  api.mainModule('search_boxes.html', 'client');
+  api.addAssets('search_boxes.html', 'client');
   api.mainModule('search_boxes.js', 'client');
 });

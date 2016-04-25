@@ -7,7 +7,7 @@ blaze-tools@1.0.8
 caching-compiler@1.0.4
 caching-html-compiler@1.0.6
 check@1.2.1
-craphtex:search-boxes@0.0.1
+craphtex:search-boxes@0.0.2
 deps@1.0.12
 diff-sequence@1.0.5
 ecmascript@0.4.3
